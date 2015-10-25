@@ -9,3 +9,6 @@ Just because I can.
 
 make icons
 make repeated background pattern for banners.
+(welcome done)
+
+make client icons
